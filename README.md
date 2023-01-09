@@ -1,10 +1,9 @@
-[![MasterHead](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karthik N.P</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="karthiknp21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiknp21&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknp21" /> </p>
 
 - 📫 How to reach me **nuggimakkikarthik@gmail.com**
 
@@ -27,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthiknp21&show_icons=true&locale=en" alt="karthiknp21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiknp21&" alt="karthiknp21" /></p>
-
