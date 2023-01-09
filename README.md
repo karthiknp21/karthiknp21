@@ -1,8 +1,6 @@
-<html>
-<p><img src="https://komarev.com/ghpvc/?username=karthiknp21&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknp21" /> </p>
-</html>
 # 💫 About Me:
 <h2>Computer Science Enginner from India.</h2>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 <br>
 
 ## 🌐 Socials:
@@ -16,6 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknp21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 👀 
-[![](https://visitcount.itsvg.in/api?id=karthiknp21&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-
+[![](https://visitcount.itsvg.in/api?id=karthiknp21&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
