@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Computer Science Enginner from India.</h2>
+<h2>Computer Science Engineer from India.</h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 <br>
 
