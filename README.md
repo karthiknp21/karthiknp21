@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><h1>Computer Science Enginner from India.</h1>
+<br><h2>Computer Science Enginner from India.</h2>
 
 
 ## 🌐 Socials:
