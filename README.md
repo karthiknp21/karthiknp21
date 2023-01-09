@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://github.com/karthiknp21/img/blob/04b48fe1f6db2b1bd55fc51924e6fa051c238493/banner.png)]
 
 # 💫 About Me:
 <h2>Computer Science Engineer from India.</h2>
