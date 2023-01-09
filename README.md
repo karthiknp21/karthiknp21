@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)](github.com/karthiknp21)
+![Header](./github-header-image-name.png)
 
 # 💫 About Me:
 <h2>Computer Science Engineer from India.</h2>
