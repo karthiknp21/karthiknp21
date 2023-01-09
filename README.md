@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 
 # 💫 About Me:
 <h2>Computer Science Engineer from India.</h2>
