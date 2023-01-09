@@ -1,7 +1,8 @@
+<html>
+<p><img src="https://komarev.com/ghpvc/?username=karthiknp21&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknp21" /> </p>
+</html>
 # 💫 About Me:
 <h2>Computer Science Enginner from India.</h2>
-<img src="https://komarev.com/ghpvc/?username=karthiknp21&label=Profile%20views&color=0e75b6&style=flat" alt="karthiknp21" />
-
 <br>
 
 ## 🌐 Socials:
