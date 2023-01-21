@@ -16,4 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknp21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 👀 
-[![](https://visitcount.itsvg.in/api?id=karthiknp21&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+(https://visitcount.itsvg.in/api?id=karthiknp21&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
